@@ -45,7 +45,7 @@
 * ## The ouput demonstates the use of cat as it specifies what each document is specifically.
 * ## Not an error
 
-![Image](ScreenShot_8.png)
+![Image](ScreenShot_9.png)
 * ## No working directory
 * ## TODO
 * ## TODO
