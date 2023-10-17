@@ -23,12 +23,12 @@
 * ## Not an error
 
 ![Image](ScreenShot_5.png)
-* ## The working directory is lecture 1
+* ## The working directory is still home
 * ## the output demonstrates the listing of lecture 1's content that is accessible
 * ## Not an error
 
 ![Image](ScreenShot_6.png)
-* ## No current directory as it finds no such file or directory; errors
+* ## The current directory remains home as we have yet to navigate else where
 * ## The output shows that we cannot directly try to access the messages directory 
 * ## Errors because we must first navigate to messages with a path or cd command
 
