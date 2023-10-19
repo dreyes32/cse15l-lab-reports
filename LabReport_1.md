@@ -5,7 +5,7 @@
 * ## Not an error
 
 ![Image](ScreenShot_2.png)
-* ## The working directory is lecture 1
+* ## The working directory is home
 * ## The output demonstrates that it is now inside the lecture 1 directory; able to access its content
 * ## Not an error
 
