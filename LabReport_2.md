@@ -11,8 +11,11 @@
 -  String "addToList" and num counter are changed / updated. So overall, the string list gets an item added
 
 ## Part 2 : LS 3 ScreenShots
+- Private Key
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/77603322-8c5e-4f71-892e-6969ddf6e805)
+- Public Key
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/3cae3d23-afb9-4f26-b604-69d2f0bd2562)
+- No Password Login
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/4f895f89-2e2a-4ea0-b2d9-82f94802bfdf)
 
 
