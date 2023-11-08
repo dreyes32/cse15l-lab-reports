@@ -11,8 +11,11 @@
 -  String "addToList" and num counter are changed / updated. So overall, the string list gets an item added
 
 ## Part 2 : LS 3 ScreenShots
-![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/e04033e1-93a1-405d-afc1-d16d19b5c36c)
-Im unable to do this part as of now.
+![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/77603322-8c5e-4f71-892e-6969ddf6e805)
+![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/3cae3d23-afb9-4f26-b604-69d2f0bd2562)
+![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/4f895f89-2e2a-4ea0-b2d9-82f94802bfdf)
+
+
 
 ## Part 3 : What have I learned? (Few Sentences) 
 ##### The first thing I learned in week two was how to read a url and what each part meant. The second thing I learned in week 2 is how to gain access to a remote server. Lastly, the first thing I learned in week 3 was how to go about debugging code.
