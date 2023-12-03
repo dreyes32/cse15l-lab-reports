@@ -15,9 +15,9 @@
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/c320bb4a-d9cb-4961-ad1b-a5fa89ab859a)
 
 ##### - Now we must do command: `git add ListExamples.java` + `<enter>` , git commit -m "some message" + `<enter>`, git push + `<enter>`
-add : stages for commit, basically sends it so it can be committed
-commit : actually saves the changes 
-push : uploads local repo to remote
+add : stages for commit, basically sends it so it can be committed \
+commit : actually saves the changes \
+push : uploads local repo to remote \
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/992b357b-f718-4a8a-9e4d-a1949ab5fac2)
 
 
