@@ -7,7 +7,7 @@
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/9a8e3215-ab77-40c5-a31a-d54dd4522fe2)
 - The Bug is an Index out of Bounds Error that concerns the while loop having an || (or) inseatd of an && (And), because of this, it only needs one of the conditions to be true to continue adding to a size that another list might be exceeding its size.
 ### Step 4: Setup
-- The file & directory structure needed
+- The file & directory structure needed \
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/4ce1e076-2479-4fbd-8ec6-7feafe2f49fe) 
 - The contents of each file before fixing the bug
 ![image](https://github.com/dreyes32/cse15l-lab-reports/assets/146775725/51cfb97d-4d2b-44f9-86d0-f29036209b38)
